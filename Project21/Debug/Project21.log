@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\тимур\source\repos\project21\project21\source.cpp(68): warning C4101: a: неиспользованная локальная переменная
+c:\users\тимур\source\repos\project21\project21\source.cpp(70): warning C4101: y: неиспользованная локальная переменная
+c:\users\тимур\source\repos\project21\project21\source.cpp(88): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project21.vcxproj -> C:\Users\Тимур\source\repos\Project21\Debug\Project21.exe
